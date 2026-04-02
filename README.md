@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>- Building full stack web applications using Python & Django  <br>- Improving my frontend skills with HTML, CSS, JavaScript  <br><br>👯 I’m looking to collaborate on  <br>- Open source projects  <br>- Web development (Frontend / Backend)  <br><br>🤝 I’m looking for help with  <br>- Advanced Django concepts  <br>- Real-time projects & deployment  <br><br>🌱 I’m currently learning  <br>- Python Full Stack Development  <br>- MySQL & APIs  <br>- Git & GitHub  <br><br>💬 Ask me about  <br>- HTML, CSS, JavaScript  <br>- Python basics  <br>- Web development  <br><br>📫 How to reach me  <br>- Email: yourmail@gmail.com  <br><br>⚡ Fun fact  <br>- I love building projects more than just watching tutorials 😄
+🔭 I’m currently working on  <br>- Building full stack web applications using Python & Django  <br>- Improving my frontend skills with HTML, CSS, JavaScript  <br><br>👯 I’m looking to collaborate on  <br>- Open source projects  <br>- Web development (Frontend / Backend)  <br><br>🤝 I’m looking for help with  <br>- Advanced Django concepts  <br>- Real-time projects & deployment  <br><br>🌱 I’m currently learning  <br>- Python Full Stack Development  <br>- MySQL & APIs  <br>- Git & GitHub  <br><br>💬 Ask me about  <br>- HTML, CSS, JavaScript  <br>- Python basics  <br>- Web development  <br><br>📫 How to reach me  <br>- Email: praveensekar2032005@gmail.com  <br><br>⚡ Fun fact  <br>- I love building projects more than just watching tutorials 😄
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Praveen5675&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
